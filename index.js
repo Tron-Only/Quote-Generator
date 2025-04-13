@@ -1,4 +1,4 @@
-const url = "https://api.quotable.io/random";
+const url = "https://corsproxy.io/?https://api.quotable.io/random";
 const quote = document.querySelector(".quote");
 const author = document.querySelector(".author");
 
